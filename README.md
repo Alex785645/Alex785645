@@ -1,3 +1,3 @@
-<Aleksander> <knapiński
-<12>
-<s31115>
+Aleksander Knapiński
+12
+s31115
